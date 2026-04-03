@@ -57,7 +57,17 @@ Strategi Mobile Legends yang baik meliputi:
 
 Strategi Mobile Legends ini akan membantu tim kamu meraih kemenangan.
 
-👉 [Download Video Mobile Legends](https://sfl.gl/eVmQlN)
+👉 [Download Video Mobile Legends](https://sfl.gl/eVmQlN)<script>
+  atOptions = {
+    'key' : 'e275ee5956d4ab774bc29e2cc139b8cd',
+    'format' : 'iframe',
+    'height' : 60,
+    'width' : 468,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/e275ee5956d4ab774bc29e2cc139b8cd/invoke.js"></script>
+
 
 
 ---
